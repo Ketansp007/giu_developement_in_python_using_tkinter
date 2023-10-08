@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.idea
+settings.cfg
+db.json
+Resources
+venv
+__pycache__/
+
